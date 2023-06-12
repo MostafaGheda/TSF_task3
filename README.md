@@ -1,5 +1,5 @@
 # TSF_task3
-Exploratory Data Analysis
+Exploratory Data Analysis, 
 tools:
-  Python for preparing data for analysis
+  Python for preparing data for analysis, 
   Power BI for creating dashboard
